@@ -1,0 +1,26 @@
+name: DPP Registry watch
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may delay runs a little)
+  workflow_dispatch: {}
+concurrency: dpp-watch
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python dpp_watch.py
+      - name: Save changes
+        run: |
+          git config user.name "dpp-watch"
+          git config user.email "dpp-watch@users.noreply.github.com"
+          git add state.json feed.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "DPP watch update"
+            git push
+          fi
