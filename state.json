@@ -1,0 +1,71 @@
+{
+ "pages": {
+  "DPP Resources & documentation": {
+   "files": {
+    "a71b5d30-ed8b-4c27-809d-757cf5e6030f": {
+     "name": "dpp_registry_user_guide_for_economic_operators.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/a71b5d30-ed8b-4c27-809d-757cf5e6030f_en?filename=dpp_registry_user_guide_for_economic_operators.pdf"
+    },
+    "9bce584d-fd9c-453f-862c-55670d2757b7": {
+     "name": "DPP Registry – API Integration Guide for Economic Operators.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/9bce584d-fd9c-453f-862c-55670d2757b7_en?filename=DPP%20Registry%20%E2%80%93%20API%20Integration%20Guide%20for%20Economic%20Operators.pdf"
+    },
+    "74214725-69b6-490b-aa23-4e0f64329149": {
+     "name": "DPP Registry – OpenAPI Specifications.zip",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/74214725-69b6-490b-aa23-4e0f64329149_en?filename=DPP%20Registry%20%E2%80%93%20OpenAPI%20Specifications.zip"
+    },
+    "fb9dd217-74ae-4d31-b25a-38a68df87c2d": {
+     "name": "DPP Registry – Semantic Data Guide.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/fb9dd217-74ae-4d31-b25a-38a68df87c2d_en?filename=DPP%20Registry%20%E2%80%93%20Semantic%20Data%20Guide.pdf"
+    },
+    "5fad8a3a-9c18-486d-be02-01eb540e91e8": {
+     "name": "DPP Registry – Semantic Data Artifacts.zip",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/5fad8a3a-9c18-486d-be02-01eb540e91e8_en?filename=DPP%20Registry%20%E2%80%93%20Semantic%20Data%20Artifacts.zip"
+    },
+    "b42673d1-90db-4c0c-b54e-37fa9e0ac6c6": {
+     "name": "DPP Registry – Service Account Technical Integration Guide.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/b42673d1-90db-4c0c-b54e-37fa9e0ac6c6_en?filename=DPP%20Registry%20%E2%80%93%20Service%20Account%20Technical%20Integration%20Guide.pdf"
+    },
+    "56a7f4ca-5e75-4f9e-adac-fd86f88f2b16": {
+     "name": "DPP Registry – Self-Hosted Authentication Guide for Economic Operators.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/56a7f4ca-5e75-4f9e-adac-fd86f88f2b16_en?filename=DPP%20Registry%20%E2%80%93%20Self-Hosted%20Authentication%20Guide%20for%20Economic%20Operators.pdf"
+    },
+    "cd1e5e6c-4a4a-4b99-995a-49eb6916187e": {
+     "name": "Digital Batteries Passport - data point by category.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/cd1e5e6c-4a4a-4b99-995a-49eb6916187e_en?filename=Digital%20Batteries%20Passport%20-%20data%20point%20by%20category.pdf"
+    }
+   },
+   "hash": "a8456cda6e08390d324fb59307e6e2bdebbe6ca04053a72ab7903c77e6eca118"
+  },
+  "DPP Registry": {
+   "files": {
+    "079a45e2-469f-4eec-b1e5-32e8e05d1357": {
+     "name": "dpp_registry_user_guide_for_economic_operators.pdf",
+     "url": "https://single-market-economy.ec.europa.eu/document/download/079a45e2-469f-4eec-b1e5-32e8e05d1357_en?filename=dpp_registry_user_guide_for_economic_operators.pdf"
+    }
+   },
+   "hash": "f35d9c807b1b503b72e9f4fcf641955e82b84ce54eb526e06ccd5545579f4228"
+  },
+  "DPP hub": {
+   "files": {},
+   "hash": "d99c34d77c79af442c6a34982fcfcb9aed884ec60d33cd15a73925a1b9e1b5e1"
+  },
+  "DPP for economic operators": {
+   "files": {},
+   "hash": "bdcb2bc9f3618d53337521b6ecdf90aec10cb1b3128879d35d9136dfc98bc31f"
+  },
+  "DPP harmonised standards": {
+   "files": {},
+   "hash": "1479cf7d5462f2f950a9fc7599db81ad3e23ad0d0f93a75ffb212ba619f6d6e0"
+  }
+ },
+ "items": [
+  {
+   "title": "DPP watch started: baseline saved",
+   "link": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport/resources-documentation_en",
+   "guid": "start-202611231140",
+   "desc": "Future new files and page changes will appear here.",
+   "date": "Mon, 23 Nov 2026 11:40:32 +0000"
+  }
+ ]
+}
