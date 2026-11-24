@@ -48,7 +48,7 @@
   },
   "DPP hub": {
    "files": {},
-   "hash": "d99c34d77c79af442c6a34982fcfcb9aed884ec60d33cd15a73925a1b9e1b5e1"
+   "hash": "4b7114e23a1c5f7581c0a893328c9e671187abd462a3a4a9de5f6e1f06a8f53b"
   },
   "DPP for economic operators": {
    "files": {},
@@ -60,6 +60,13 @@
   }
  },
  "items": [
+  {
+   "title": "[Page changed] DPP hub",
+   "link": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+   "guid": "DPP hub-4b7114e23a1c",
+   "desc": "Text on this page changed. ",
+   "date": "Tue, 24 Nov 2026 11:17:58 +0000"
+  },
   {
    "title": "[Page changed] DPP Resources & documentation",
    "link": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport/resources-documentation_en",
